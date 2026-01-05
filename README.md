@@ -97,4 +97,4 @@ Real_estate_price_prediction_model/
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source.
